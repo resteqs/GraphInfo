@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Testklasse
+comment1.params=
+comment1.target=Testklasse()
+comment2.params=
+comment2.target=void\ graph1()
+comment3.params=
+comment3.target=void\ graph2()
+comment4.params=max
+comment4.target=void\ knotenEinfuegenGen(int)
+comment5.params=kantenAnzahl
+comment5.target=void\ kantenEinfuegenGen(int)
+numComments=6

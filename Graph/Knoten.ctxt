@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Knoten
+comment1.params=neuerBez
+comment1.target=Knoten(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ bezeichnerGeben()
+comment3.params=formatLength
+comment3.target=java.lang.String\ bezFormatGeben(int)
+numComments=4

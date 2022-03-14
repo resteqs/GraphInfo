@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Graph
+comment1.params=maxGroese
+comment1.target=Graph(int)
+comment2.params=s
+comment2.target=void\ knotenEinfuegen(java.lang.String)
+comment3.params=s
+comment3.target=boolean\ istBezeichnerEnthalten(java.lang.String)
+comment4.params=x
+comment4.target=void\ standartWerte(int)
+comment5.params=anfang\ ende\ gewicht
+comment5.target=void\ kanteEinfuegen(java.lang.String,\ java.lang.String,\ int)
+comment6.params=vergleich
+comment6.target=int\ knotenNummer(java.lang.String)
+comment7.params=startKnoten
+comment7.target=void\ tiefensuche(java.lang.String)
+comment8.params=knotenNummer
+comment8.target=void\ besuchen(int)
+numComments=9
